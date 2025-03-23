@@ -1,0 +1,1 @@
+# Apriori-FP-Growth-Rule-Mining-For-Strudent-Data
